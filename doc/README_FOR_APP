@@ -1,2 +1,6 @@
-Use this README file to introduce your application and point to useful places in the API for learning more.
-Run "rake doc:app" to generate API documentation for your models, controllers, helpers, and libraries.
+This is the sample application from Agile Web Development with Rails.  
+
+It contains a multi-lingual shopping cart...
+
+It's really cool.
+
